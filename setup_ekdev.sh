@@ -31,8 +31,10 @@ then
     sudo $packageManger install -y i2ctools
     sudo $packageManger install -y gdb
 
+    echo "system configuration completed!"
+    echo "now smile :)"
 else 
-    echo "Terminating"
+    echo "aborted"
 fi
 
 
