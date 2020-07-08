@@ -6,6 +6,7 @@
 $packageManger="apt-get"
 
 echo "Wellcome to my configuration file"
+echo "using package manager: $packageManger"
 
 read -p "do you want to continue (y/n) ?: " yesorno
 
