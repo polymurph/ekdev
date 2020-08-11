@@ -1,9 +1,6 @@
 #!/bin/bash
 
-#blabla 
-#fzdjhgfklkjöL
-
-$packageManger="apt-get"
+packageManger="apt-get"
 
 echo "Wellcome to my configuration file"
 echo "using package manager: $packageManger"
